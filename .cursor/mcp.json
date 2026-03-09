@@ -1,0 +1,8 @@
+{
+  "mcpServers": { https://mcp.render.com/mcp
+    "shadcn": {
+      "command": "npx",
+      "args": ["shadcn@latest", "mcp"]
+    }
+  }
+}
